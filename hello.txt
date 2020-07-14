@@ -1,4 +1,4 @@
-spark scala hive mapreduce
+spark scala hive mapreduce     master
 spark scala hive mapreduce
 spark scala hive mapreduce
 spark scala hive mapreduce
